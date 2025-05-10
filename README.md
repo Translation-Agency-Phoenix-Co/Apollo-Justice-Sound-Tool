@@ -1,11 +1,11 @@
 # ![Icon](./_internal/1.ico) Apollo Justice Sound Tool
 
-[English](##📘-English-Documentation) | [Русский](#📘-Документация-на-русском) | [Українська](#📘-Документація-українською) | [日本語](#📘-日本語のドキュメント)
+[English](##English-Documentation) | [Русский](#Документация-на-русском) | [Українська](#Документація-українською) | [日本語](#日本語のドキュメント)
 
 
 ---
 
-## 📘 English Documentation
+## English Documentation
 
 **Apollo Justice Sound Tool** is a utility to decode, encode, and inspect `.asrc` audio files used in *Ace Attorney: Apollo Justice Trilogy* and other RE Engine-based games.
 
@@ -25,7 +25,7 @@ Apache 2.0
 
 ---
 
-## 📘 Документация на русском
+## Документация на русском
 
 **Apollo Justice Sound Tool** — это утилита для декодирования, кодирования и анализа `.asrc` аудиофайлов, используемых в *Ace Attorney: Apollo Justice Trilogy*, а также других играх на движке RE Engine.
 
@@ -45,7 +45,7 @@ Apache 2.0
 
 ---
 
-## 📘 Документація українською
+## Документація українською
 
 **Apollo Justice Sound Tool** — це утиліта для декодування, кодування та аналізу `.asrc` аудіофайлів з *Ace Attorney: Apollo Justice Trilogy* і інших ігор на рушії RE Engine.
 
@@ -65,7 +65,7 @@ Apache 2.0
 
 ---
 
-## 📘 日本語のドキュメント
+## 日本語のドキュメント
 
 **Apollo Justice Sound Tool** は、*逆転裁判456*（Ace Attorney: Apollo Justice Trilogy）および他の RE Engine ベースのゲームで使われる `.asrc` オーディオファイルをデコード、エンコード、情報表示するツールです。
 
